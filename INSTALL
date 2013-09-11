@@ -1,9 +1,9 @@
-Building FooCoin
+Building OmegaCoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building omegacoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of OmegaCoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building omegacoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of OmegaCoin.
