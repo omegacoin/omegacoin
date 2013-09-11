@@ -1,3 +1,3 @@
-FooCoin (FOO)
+OmegaCoin (OMC)
 
-Blah, blah, blah.
+Fast, Cryptocurrency, that is the alpha and the omega, the beginning and the end!!!
